@@ -1,0 +1,38 @@
+
+img{
+    width:300px;
+    margin-top:50px;
+    border-radius:50%;
+
+}
+body{
+    text-align: center;
+
+}
+#design{
+    display: table-cell;
+    position:relative;
+    text-align: center;
+    vertical-align: middle;
+}
+#Welcome{
+    background: linear-gradient(rgb(255, 136, 0) 40%, rgb(255, 38, 0) 60%);
+}
+#Bio{
+    font-size: 25px;
+}
+.line{
+    height:7px;
+    background: rgb(149, 16, 238);
+    width: 70px;
+    margin: 80px auto;
+}
+#Bio{
+    background: linear-gradient(rgb(10, 248, 197) 40%, rgba(255, 0, 255, 0.993) 60%);
+}
+#img{
+    background: linear-gradient(rgb(10, 248, 248) 40%, rgba(195, 207, 27, 0.993) 60%);
+}
+#Songs{
+    background: mediumslateblue;
+}
